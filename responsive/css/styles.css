@@ -39,6 +39,11 @@ nav li {
 }
 
 @media (min-width: 768px) {
+    img {
+        display: black;
+        margin: 0%;
+        width: 100%;
+    }
     #container {
         background-color: #FF0000;
     }
@@ -46,6 +51,11 @@ nav li {
 }
 
 @media (min-width: 1024px) {
+    img {
+        display: black;
+        margin: 0%;
+        width: 100%;
+    }
     nav li {
         background-color: black;
         border: 0;
