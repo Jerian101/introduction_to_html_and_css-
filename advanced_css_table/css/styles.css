@@ -18,7 +18,7 @@ tr {
 }
 
 img {
-    display: black;
+    display: block;
     margin: 0%;
     width: 100%;
 }
@@ -40,7 +40,7 @@ nav li {
 
 @media (min-width: 768px) {
     img {
-        display: black;
+        display: block;
         margin: 0%;
         width: 100%;
     }
