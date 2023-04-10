@@ -52,7 +52,7 @@ nav li {
 
 @media (min-width: 1024px) {
     img {
-        display: black;
+        display: block;
         margin: 0%;
         width: 100%;
     }
